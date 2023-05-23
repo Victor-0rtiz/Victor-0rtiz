@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=26&duration=2000&pause=1000&color=18C3AA&center=true&vCenter=true&width=800&height=54&lines=Bienvenido+!!++%F0%9F%91%8B+soy+V%C3%ADctor+Ortiz;Welcome!!+%F0%9F%91%8B+I'm+Victor+Ortiz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=26&duration=2000&pause=1000&color=18C3AA&center=true&vCenter=true&width=906&height=54&lines=Bienvenido+!!++%F0%9F%91%8B+soy+V%C3%ADctor+Ortiz;Welcome!!+%F0%9F%91%8B+I'm+Victor+Ortiz)](https://git.io/typing-svg)
 <h3 align="center">Desarrollador web junior fullstack - Apasionado por la tecnología y el aprendizaje </h3>
 
 
@@ -51,6 +51,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="48" title="Unity-Dark">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="48" title="Vercel-Dark">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg" width="48" title="Webpack-Dark">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify-Dark">
 
  </p>
 
@@ -62,7 +63,7 @@
 
 <div align="center">
     <h3>🔝 Contribuciones</h3>
-    <img src="https://github-contributor-stats.vercel.app/api?username=victor-0rtiz&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" width="41%" height="195px" alt="Top Contributed Repo">    
+    <img src="https://github-contributor-stats.vercel.app/api?username=victor-0rtiz&limit=5&theme=vue-dark&combine_all_yearly_contributions=true&hide_border=true" width="41%" height="195px" alt="Top Contributed Repo">    
     <img width="49%" height="199px" src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-0rtiz&theme=vue-dark&hide_border=true" alt="GitHub Streak">
 </div>
 
@@ -72,10 +73,32 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-0rtiz&theme=vue-dark&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=42b883&bg_color=0d1117" />
 </p>
+```mermaid
+graph TD;
+    Front-End-->HTML5;
+    Front-End-->CSS3;
+    Front-End-->JavaScript;
+    Front-End-->React;
+    Front-End-->JSON;
+    Front-End-->JQuery;
+
+
+
+
+```mermaid
+graph TD;
+    Back-End-->NodeJs;
+    Back-End-->PHP;
+    PHP-->Laravel;
+    Laravel-->SQL;
+
+
 <div align="center">
     <h3>✍️Citas Aleatorias</h3>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </div>
+
+
 
 
 
