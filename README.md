@@ -20,16 +20,21 @@
 <a href="https://www.linkedin.com/in/vneros/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/vneros/" height="40" width="40" /></a>
 <a href="https://discord.gg/klosman#0506" target="blank"><img align="center" src="https://preview.redd.it/788khtqa7c551.png?auto=webp&s=6ad02eeef76a5b241b64a31454eb8c8ca5292c98" alt="https://discord.gg/klosman#0506" height="50" width="80" /></a>
 </p>
-<div>
-  <h3>Lenguajes:</h3>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-</div>
+<h3 align="center"> Tecnologias</h3>
+<p align="center"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48" title="CS">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" title="PHP">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">
+</p>
 
+<h3 align="center"> Frameworks</h3>
 
+<p align="center">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="48" title="Laravel">
+ </p>
 
 
 
