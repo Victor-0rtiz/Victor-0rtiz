@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=900&size=35&duration=2000&pause=1000&color=17F7E6&center=true&vCenter=true&width=435&lines=Bienvenido+!!++%F0%9F%91%8B+soy+V%C3%ADctor+Ortiz;Welcome!!+%F0%9F%91%8B+I'm++V%C3%ADctor+Ortiz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=900&size=35&duration=2000&pause=1000&color=17F7E6&vCenter=true&width=435&lines=Bienvenido+!!++%F0%9F%91%8B+soy+V%C3%ADctor+Ortiz;Welcome!!+%F0%9F%91%8B+I'm++V%C3%ADctor+Ortiz)](https://git.io/typing-svg)
 <h3 align="center">Desarrollador web junior fullstack - Apasionado por la tecnología y el aprendizaje </h3>
 
 
