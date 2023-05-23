@@ -51,35 +51,25 @@
 </p>
 
 <div align="center">
-    <h3>✍️Citas Randoms</h3>
+    <h3>🔝 Contribuciones</h3>
+    <img src="https://github-contributor-stats.vercel.app/api?username=victor-0rtiz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="41%" height="195px" alt="Top Contributed Repo">    
+    <img width="49%" height="199px" src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-0rtiz&theme=dark&hide_border=false" alt="GitHub Streak">
+</div>
+
+
+<p align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Victor-0rtiz&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Dev github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-0rtiz&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</p>
+<div align="center">
+    <h3>✍️Citas Aleatorias</h3>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote">
 </div>
 
 
 
 
-
-<div align="center">
-    <h3>🔝 Contribuciones</h3>
-    <img src="https://github-contributor-stats.vercel.app/api?username=victor-0rtiz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="49%" height="195px" alt="Top Contributed Repo">    
-</div>
-
-
-<p align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-0rtiz&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</p>
-
-
-
-<p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-0rtiz&theme=dark&hide_border=false"
-</p> 
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-0rtiz&theme=dark&hide_border=false" alt="GitHub Streak">
-</div>
 
 
 
