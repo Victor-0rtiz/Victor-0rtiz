@@ -73,27 +73,38 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-0rtiz&theme=vue-dark&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=42b883&bg_color=0d1117" />
 </p>
+<h3 align="center"> Front-End</h3>
+
 ```mermaid
 graph TD;
-    Front-End-->HTML5;
+  Front-End-->HTML5;
     Front-End-->CSS3;
     Front-End-->JavaScript;
     Front-End-->React;
     Front-End-->JSON;
-    Front-End-->JQuery;
-    
-  ```
+    JavaScript-->JQuery;
+    JavaScript-->Gulp;
+    CSS3-->Boostrap;
+    CSS3-->Sass;
+
+   ```
 
 
 
+<h3 align="center"> Back-End</h3>
+<div align="center">
 
-```mermaid
+```mermaid:centered
 graph TD;
     Back-End-->NodeJs;
     Back-End-->PHP;
+    Back-End-->CSharp;
     PHP-->Laravel;
-    Laravel-->SQL;
-    ```
+    Laravel-->MySQL;
+    CSharp-->.Net;
+   ``` 
+</div>
+
 
 
 <div align="center">
