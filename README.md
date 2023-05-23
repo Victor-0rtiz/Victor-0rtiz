@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=26&duration=2000&pause=1000&color=18C3AA&center=true&vCenter=true&width=706&height=54&lines=Bienvenido+!!++%F0%9F%91%8B+soy+V%C3%ADctor+Ortiz;Welcome!!+%F0%9F%91%8B+I'm+Victor+Ortiz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=26&duration=2000&pause=1000&color=18C3AA&center=true&vCenter=true&width=800&height=54&lines=Bienvenido+!!++%F0%9F%91%8B+soy+V%C3%ADctor+Ortiz;Welcome!!+%F0%9F%91%8B+I'm+Victor+Ortiz)](https://git.io/typing-svg)
 <h3 align="center">Desarrollador web junior fullstack - Apasionado por la tecnología y el aprendizaje </h3>
 
 
@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/vneros/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/vneros/" height="40" width="40" /></a>
 <a href="https://discord.gg/klosman#0506" target="blank"><img align="center" src="https://preview.redd.it/788khtqa7c551.png?auto=webp&s=6ad02eeef76a5b241b64a31454eb8c8ca5292c98" alt="https://discord.gg/klosman#0506" height="50" width="80" /></a>
 </p>
-<h3 align="center"> Tecnologias</h3>
+<h3 align="center">Lenguajes</h3>
 <p align="center"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">
@@ -28,16 +28,31 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48" title="CS">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" title="PHP">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">
+
 </p>
 
-<h3 align="center"> Frameworks</h3>
+<h3 align="center"> Frameworks y Herramientas</h3>
 
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="48" title="Laravel">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48" title="Boostrap">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="48" title=".Net">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="48" title="JQuery">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github-Dark">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gulp.svg" width="48" title="Gulp">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="48" title="Unity-Dark">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="48" title="Vercel-Dark">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg" width="48" title="Webpack-Dark">
+
  </p>
-
-
-
 
 
 <h3 align="center">Github Metricas </h3><p align="center">
