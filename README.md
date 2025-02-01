@@ -2,16 +2,44 @@
 <h3 align="center">Desarrollador web junior fullstack - Apasionado por la tecnología y el aprendizaje </h3>
 
 
-- 🌱 Actualmente estoy aprendiendo **Node.js, React, Laravel**
+- 🔭 Actualmente trabajo con: **Angular, NestJS y Node.js implementando aplicaciones escalables **
+- 🌱 Mejorando mis skills en: **Microservicios**
+- 🛠️ Portafolio: [https://portafolio-vneros.netlify.app/](https://portafolio-vneros.netlify.app/)
+- 📫 Contáctame: **vicjosneros@gmail.com**
 
-- 👨 💻 Todos mis proyectos están disponibles en [https://portafolio-vneros.netlify.app/](https://portafolio-vneros.netlify.app/)
 
-- 📫 Contáctame **vicjosneros@gmail.com**
+<h3 align="center">🌟 Sobre Mí</h3>
+<div align="center">
+  
+Desarrollador full-stack  Actualmente colaboro en proyectos gubernamentales implementando:
+- Sistemas seguros con JWT y OAuth2
+- Arquitecturas multi-tenant
+- APIs RESTful (Node.js + Express/NestJS)
+- Interfaces dinámicas en Angular + TailwindCSS
+- Integraciones en tiempo real con WebSockets
 
-<h3 align="center">Sobre mi: 👽</h3>
-- Mi nombre es Víctor Ortiz, soy originario de Nicaragua y actualmente me estoy formando como un desarrollador web fullstack junior mientras estudio la carrera de informática educativa. Me considero una persona autodidacta y apasionada por la tecnología, lo que me ha llevado a enamorarme de la programación. Siempre busco maneras de mejorar mis habilidades y agregar valor a los proyectos en los que trabajo, con el objetivo de crecer profesionalmente y ser un aporte significativo para la industria tecnológica.
+Autodidacta apasionado por la programación.
+
+</div>
 
 **Si estás revisando mi Github, ¡por favor sígueme! Espero que podamos apoyarnos mutuamente en nuestros proyectos futuros.😃**
+
+
+<h3 align="center">💼 Experiencia Relevante</h3>
+<p align="center">
+  
+**Desarrollador Full-Stack**  
+_Proyectos Institucionales (2022-Presente)_  
+• Implementación de sistemas web con arquitecturas escalables  
+• Desarrollo de APIs REST para gestión de datos masivos  
+• Integración de soluciones de autenticación JWT y WebSockets  
+• Optimización de procesos con herramientas CI/CD  
+
+**Logros destacados:**  
+✓ Migración exitosa de sistemas monolíticos a arquitectura modular  
+✓ Implementación de sistemas en tiempo real con Socket.IO  
+✓ Diseño de soluciones multi-tenant para diferentes entornos
+</p>
 
 
 
@@ -20,6 +48,14 @@
 <a href="https://www.linkedin.com/in/vneros/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/vneros/" height="40" width="40" /></a>
 <a href="https://discord.gg/klosman#0506" target="blank"><img align="center" src="https://preview.redd.it/788khtqa7c551.png?auto=webp&s=6ad02eeef76a5b241b64a31454eb8c8ca5292c98" alt="https://discord.gg/klosman#0506" height="50" width="80" /></a>
 </p>
+
+
+
+<h3 align="center">🛠️ Stack Principal</h3>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=angular,ts,nodejs,nestjs,tailwind,postgres,git,figma,aws&theme=dark" />
+</p>
+
 <h3 align="center">Lenguajes</h3>
 <p align="center"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">
