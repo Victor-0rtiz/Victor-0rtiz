@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=26&duration=2000&pause=1000&color=18C3AA&center=true&vCenter=true&width=906&height=54&lines=Bienvenido+!!++%F0%9F%91%8B+soy+V%C3%ADctor+Ortiz;Welcome!!+%F0%9F%91%8B+I'm+Victor+Ortiz)](https://git.io/typing-svg)
-<h3 align="center">Desarrollador web junior fullstack - Apasionado por la tecnología y el aprendizaje </h3>
+<h3 align="center">🚀 Desarrollador Full-Stack |  Angular & Node.js  - Apasionado por la tecnología y el aprendizaje </h3>
 
 
 - 🔭 Actualmente trabajo con: **Angular, NestJS y Node.js implementando aplicaciones escalables **
