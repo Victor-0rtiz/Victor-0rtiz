@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Desarrollador Full-Stack |  Angular & Node.js  - Apasionado por la tecnología y el aprendizaje </h3>
 
 
-- 🔭 Actualmente trabajo con: **Angular, NestJS y Node.js implementando aplicaciones escalables **
+- 🔭 Actualmente trabajo con: **Angular, NestJS y Node.js implementando aplicaciones escalables**
 - 🌱 Mejorando mis skills en: **Microservicios**
 - 🛠️ Portafolio: [https://portafolio-vneros.netlify.app/](https://portafolio-vneros.netlify.app/)
 - 📫 Contáctame: **vicjosneros@gmail.com**
